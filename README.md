@@ -1,5 +1,5 @@
 # Machine-Learning
-Notebooks on Machine Learning
+<h2>Notebooks on Machine Learning</h2>
 <B> Classification </B>
 Applying Classification on hearts data and comparing the following evaluation metrics for each a;lgorithms:
 <li>Confusion Matrix</li>
